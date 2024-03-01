@@ -301,3 +301,5 @@ TSWLatexianTemp*
 #*Notes.bib
 
 *.tex
+figures/
+.idea/
