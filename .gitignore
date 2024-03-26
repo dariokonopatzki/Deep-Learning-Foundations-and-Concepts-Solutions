@@ -303,3 +303,4 @@ TSWLatexianTemp*
 *.tex
 figures/
 .idea/
+.DS_Store
